@@ -25,7 +25,7 @@ I bring a versatile approach to data storytelling, stakeholder engagement, and t
 - Created automated reporting solutions from diverse data sources  
 
 ### 🔹 Performance Analyst Intern — *Stepout, Bangalore (Remote)*  
-- Tagged & analyzed 200+ football matches from global leagues  
+- Tagged & analysed 200+ football matches from global leagues  
 - Used **Tableau** to extract insights into player performance, game dynamics, and team strategies  
 
 ### 🔹 Learning Analyst & Trainer — *Steamcube Pvt Ltd, Kochi*  
