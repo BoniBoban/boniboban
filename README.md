@@ -55,7 +55,7 @@ I bring a versatile approach to data storytelling, stakeholder engagement, and t
 
 ---
 
-## 📜 Certifications  
+## 📜 Courses & Certifications  
 - ✅ Codebasics Certified: Advanced Excel, Power BI Developer, SQL Developer  
 - 🎯 SPES-Rashtriya Raksha University: Certificate in Sports Analytics  
 - ⚽ Mad About Sports: Advanced Football Analytics Master Class  
